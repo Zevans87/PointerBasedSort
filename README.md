@@ -1,4 +1,4 @@
-# StudentCourseManager
+# PointerBasedSort
 COSC-1137 – College Assignment
 
 Project Overview - This C++ program was created to generate a list of random integers. It then sorts the list
